@@ -1,5 +1,6 @@
 ## Hi there 👋
 
+I'm a student, I want to finish my degree asap. 
 <!--
 **Saltedcaramelcoffeeespressohouse/Saltedcaramelcoffeeespressohouse** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
